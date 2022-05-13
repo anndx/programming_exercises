@@ -1,0 +1,15 @@
+C:\Users\Ania\Desktop\progr-ex\03 Odwracanie listy\C#\OdwracanieListy\bin\Debug\net6.0\OdwracanieListy.exe
+C:\Users\Ania\Desktop\progr-ex\03 Odwracanie listy\C#\OdwracanieListy\bin\Debug\net6.0\OdwracanieListy.deps.json
+C:\Users\Ania\Desktop\progr-ex\03 Odwracanie listy\C#\OdwracanieListy\bin\Debug\net6.0\OdwracanieListy.runtimeconfig.json
+C:\Users\Ania\Desktop\progr-ex\03 Odwracanie listy\C#\OdwracanieListy\bin\Debug\net6.0\OdwracanieListy.dll
+C:\Users\Ania\Desktop\progr-ex\03 Odwracanie listy\C#\OdwracanieListy\bin\Debug\net6.0\OdwracanieListy.pdb
+C:\Users\Ania\Desktop\progr-ex\03 Odwracanie listy\C#\OdwracanieListy\obj\Debug\net6.0\OdwracanieListy.csproj.AssemblyReference.cache
+C:\Users\Ania\Desktop\progr-ex\03 Odwracanie listy\C#\OdwracanieListy\obj\Debug\net6.0\OdwracanieListy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ania\Desktop\progr-ex\03 Odwracanie listy\C#\OdwracanieListy\obj\Debug\net6.0\OdwracanieListy.AssemblyInfoInputs.cache
+C:\Users\Ania\Desktop\progr-ex\03 Odwracanie listy\C#\OdwracanieListy\obj\Debug\net6.0\OdwracanieListy.AssemblyInfo.cs
+C:\Users\Ania\Desktop\progr-ex\03 Odwracanie listy\C#\OdwracanieListy\obj\Debug\net6.0\OdwracanieListy.csproj.CoreCompileInputs.cache
+C:\Users\Ania\Desktop\progr-ex\03 Odwracanie listy\C#\OdwracanieListy\obj\Debug\net6.0\OdwracanieListy.dll
+C:\Users\Ania\Desktop\progr-ex\03 Odwracanie listy\C#\OdwracanieListy\obj\Debug\net6.0\refint\OdwracanieListy.dll
+C:\Users\Ania\Desktop\progr-ex\03 Odwracanie listy\C#\OdwracanieListy\obj\Debug\net6.0\OdwracanieListy.pdb
+C:\Users\Ania\Desktop\progr-ex\03 Odwracanie listy\C#\OdwracanieListy\obj\Debug\net6.0\OdwracanieListy.genruntimeconfig.cache
+C:\Users\Ania\Desktop\progr-ex\03 Odwracanie listy\C#\OdwracanieListy\obj\Debug\net6.0\ref\OdwracanieListy.dll
