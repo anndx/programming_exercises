@@ -1,0 +1,15 @@
+C:\Users\Ania\Desktop\progr-ex\04 Odwracanie Tekst\C#\OdwracanieTekstu\bin\Debug\net6.0\OdwracanieTekstu.exe
+C:\Users\Ania\Desktop\progr-ex\04 Odwracanie Tekst\C#\OdwracanieTekstu\bin\Debug\net6.0\OdwracanieTekstu.deps.json
+C:\Users\Ania\Desktop\progr-ex\04 Odwracanie Tekst\C#\OdwracanieTekstu\bin\Debug\net6.0\OdwracanieTekstu.runtimeconfig.json
+C:\Users\Ania\Desktop\progr-ex\04 Odwracanie Tekst\C#\OdwracanieTekstu\bin\Debug\net6.0\OdwracanieTekstu.dll
+C:\Users\Ania\Desktop\progr-ex\04 Odwracanie Tekst\C#\OdwracanieTekstu\bin\Debug\net6.0\OdwracanieTekstu.pdb
+C:\Users\Ania\Desktop\progr-ex\04 Odwracanie Tekst\C#\OdwracanieTekstu\obj\Debug\net6.0\OdwracanieTekstu.csproj.AssemblyReference.cache
+C:\Users\Ania\Desktop\progr-ex\04 Odwracanie Tekst\C#\OdwracanieTekstu\obj\Debug\net6.0\OdwracanieTekstu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ania\Desktop\progr-ex\04 Odwracanie Tekst\C#\OdwracanieTekstu\obj\Debug\net6.0\OdwracanieTekstu.AssemblyInfoInputs.cache
+C:\Users\Ania\Desktop\progr-ex\04 Odwracanie Tekst\C#\OdwracanieTekstu\obj\Debug\net6.0\OdwracanieTekstu.AssemblyInfo.cs
+C:\Users\Ania\Desktop\progr-ex\04 Odwracanie Tekst\C#\OdwracanieTekstu\obj\Debug\net6.0\OdwracanieTekstu.csproj.CoreCompileInputs.cache
+C:\Users\Ania\Desktop\progr-ex\04 Odwracanie Tekst\C#\OdwracanieTekstu\obj\Debug\net6.0\OdwracanieTekstu.dll
+C:\Users\Ania\Desktop\progr-ex\04 Odwracanie Tekst\C#\OdwracanieTekstu\obj\Debug\net6.0\refint\OdwracanieTekstu.dll
+C:\Users\Ania\Desktop\progr-ex\04 Odwracanie Tekst\C#\OdwracanieTekstu\obj\Debug\net6.0\OdwracanieTekstu.pdb
+C:\Users\Ania\Desktop\progr-ex\04 Odwracanie Tekst\C#\OdwracanieTekstu\obj\Debug\net6.0\OdwracanieTekstu.genruntimeconfig.cache
+C:\Users\Ania\Desktop\progr-ex\04 Odwracanie Tekst\C#\OdwracanieTekstu\obj\Debug\net6.0\ref\OdwracanieTekstu.dll
