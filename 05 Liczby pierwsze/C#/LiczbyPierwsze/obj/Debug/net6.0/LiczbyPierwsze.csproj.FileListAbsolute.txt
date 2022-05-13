@@ -1,0 +1,15 @@
+C:\Users\Ania\Desktop\progr-ex\05 Liczby pierwsze\C#\LiczbyPierwsze\bin\Debug\net6.0\LiczbyPierwsze.exe
+C:\Users\Ania\Desktop\progr-ex\05 Liczby pierwsze\C#\LiczbyPierwsze\bin\Debug\net6.0\LiczbyPierwsze.deps.json
+C:\Users\Ania\Desktop\progr-ex\05 Liczby pierwsze\C#\LiczbyPierwsze\bin\Debug\net6.0\LiczbyPierwsze.runtimeconfig.json
+C:\Users\Ania\Desktop\progr-ex\05 Liczby pierwsze\C#\LiczbyPierwsze\bin\Debug\net6.0\LiczbyPierwsze.dll
+C:\Users\Ania\Desktop\progr-ex\05 Liczby pierwsze\C#\LiczbyPierwsze\bin\Debug\net6.0\LiczbyPierwsze.pdb
+C:\Users\Ania\Desktop\progr-ex\05 Liczby pierwsze\C#\LiczbyPierwsze\obj\Debug\net6.0\LiczbyPierwsze.csproj.AssemblyReference.cache
+C:\Users\Ania\Desktop\progr-ex\05 Liczby pierwsze\C#\LiczbyPierwsze\obj\Debug\net6.0\LiczbyPierwsze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ania\Desktop\progr-ex\05 Liczby pierwsze\C#\LiczbyPierwsze\obj\Debug\net6.0\LiczbyPierwsze.AssemblyInfoInputs.cache
+C:\Users\Ania\Desktop\progr-ex\05 Liczby pierwsze\C#\LiczbyPierwsze\obj\Debug\net6.0\LiczbyPierwsze.AssemblyInfo.cs
+C:\Users\Ania\Desktop\progr-ex\05 Liczby pierwsze\C#\LiczbyPierwsze\obj\Debug\net6.0\LiczbyPierwsze.csproj.CoreCompileInputs.cache
+C:\Users\Ania\Desktop\progr-ex\05 Liczby pierwsze\C#\LiczbyPierwsze\obj\Debug\net6.0\LiczbyPierwsze.dll
+C:\Users\Ania\Desktop\progr-ex\05 Liczby pierwsze\C#\LiczbyPierwsze\obj\Debug\net6.0\refint\LiczbyPierwsze.dll
+C:\Users\Ania\Desktop\progr-ex\05 Liczby pierwsze\C#\LiczbyPierwsze\obj\Debug\net6.0\LiczbyPierwsze.pdb
+C:\Users\Ania\Desktop\progr-ex\05 Liczby pierwsze\C#\LiczbyPierwsze\obj\Debug\net6.0\LiczbyPierwsze.genruntimeconfig.cache
+C:\Users\Ania\Desktop\progr-ex\05 Liczby pierwsze\C#\LiczbyPierwsze\obj\Debug\net6.0\ref\LiczbyPierwsze.dll
